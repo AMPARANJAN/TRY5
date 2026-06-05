@@ -38,6 +38,74 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
 
 ---
 
+## 🏛️ Communities & Societies
+
+🔹 Data Analytics Domain Member — E Labs, KIIT
+
+🔹 Student Member — IEEE
+
+🔹 Event Management Team Co-Lead — H & P Projects
+
+
+
+---
+
+## 🌱 Currently Working On
+
+🌐 Summer Intern Trainee (Web Development) — EICT Academy, IIT Roorkee
+
+⚙️ Pursuing Data Engineering Training Program by LTIMindtree
+
+📈 Learning Stock Market & Financial Analytics through EdiGlobe
+
+📊 Building Business Intelligence & Power BI Dashboards
+
+
+
+---
+
+## 📚 Research & Thesis Work
+
+📄 Conducted research work on:
+
+**"Monkeypox Detection and Analysis using Artificial Intelligence and Deep Learning Approaches"**
+
+🤖 Upcoming ---- Thesis work in Robotics and Intelligent Autonomous Systems
+
+---
+
+## 🏆 Hackathons & Competitions
+
+🚀 Participated in 15+ Hackathons, Innovation Challenges, and Technical Competitions across AI, Analytics, Data Engineering, Business Intelligence, and Software Development domains
+
+⭐ Notable Participations:
+
+* Grace Hopper Celebration India (GHCI) 2025
+* Student Developer & Innovation Summit (SDIS) 2026
+* IIT Kharagpur Hackathon
+* Databricks × Accenture Data & AI Challenge
+* Economic Times Innovation & AI Challenges
+* Hack with Gemini 2025
+* Upcoming Participant — Smart India Hackathon (SIH) 2026
+
+---
+
+## 🎯 Areas of Interest
+
+📊 Data Analytics
+
+⚙️ Data Engineering
+
+💰 Financial & Stock Market Analytics
+
+📈 Business Intelligence
+
+🌐 Web Development
+
+📚 Data Science & Analytics
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
@@ -93,4 +161,35 @@ Aspiring Data Engineer • Financial Analytics Enthusiast • Intelligent System
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48"/>
 </p>
 
+---
+
+## 🏆 GitHub Highlights
+
+### 📊 Profile Details
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ampaKR0711&theme=tokyonight" width="95%" />
+</p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ampaKR0711&theme=tokyonight&hide_border=true&border_radius=12" width="80%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: krishnampa0711@gmail.com
+💼 LinkedIn: https://in.linkedin.com/in/ampa-ranjan-21749338a
+🐙 GitHub: ampaKR0711
+
+---
+
+### ⭐ Repository Vision
+
+Transforming data into actionable insights through Analytics, Business Intelligence, Data Engineering, and Intelligent Systems.
+
+Building solutions that combine technology, analytics, and innovation to solve real-world problems.
 
